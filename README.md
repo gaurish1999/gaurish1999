@@ -1,16 +1,16 @@
 # Gaurish — Data Analyst
-Power BI | SQL | Python — Interactive dashboards and actionable insights.
+Power BI | Python — Meaningful dashboards and actionable insights.
 
 ## Featured projects
 - **retail-sales-powerbi** — Executive dashboard, inventory health, RFM segmentation.
 - **sales-analytics-sql** — Cohort and LTV queries (Postgres).
+- **olist-pyspark-delta-powerbi** — Olist Brazilian data Dashboard (WIP)
 
 ## Top skills & tools
 - Power Bi
-- SQL
-- Python
 - DAX
 - M code
+- Python (numpy, pandas)
 - Postgre SQL
 - MySQL
 
